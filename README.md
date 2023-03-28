@@ -1,4 +1,4 @@
-# Latihan-Packet-Tracer
+# Latihan Packet Tracer
 
 This repository contains the source code and documentation for a university project developed using Packet Tracer. The project is aimed at implementing a all basic function in Packet Tracer. The implementation is based on from lecturer. The project source code is organized into some folder and file.
 
